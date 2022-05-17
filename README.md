@@ -11,6 +11,7 @@ price)
 -Order has some info as (customer_id, food_item,
 food_item_price)
 Deliverables : 
+
 1-Customer should create account and login.
 
 
