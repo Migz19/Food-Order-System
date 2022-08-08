@@ -1,0 +1,7 @@
+﻿  Food Order System.cpp
+X:\Programming\C++\Food Order System\Food Order System.cpp(353,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+X:\Programming\C++\Food Order System\Food Order System.cpp(463,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\Programming\C++\Food Order System\Food Order System.cpp(489,3): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+X:\Programming\C++\Food Order System\Food Order System.cpp(514,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\Programming\C++\Food Order System\Food Order System.cpp(850,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Food Order System.vcxproj -> X:\Programming\C++\Food Order System\x64\Debug\Food Order System.exe

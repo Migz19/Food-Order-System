@@ -1,0 +1,68 @@
+Cheese Burger
+Beef , Mayounese , Ketchup , Pickels , Onions
+134591
+90.50
+Beef Burger
+Beef , American Cheese  , Mayounese , Ketchup , Pickels ,  Onions
+134592
+80.50
+Cheese Burger
+Chicken Fille , Mayounese , Ketchup , Pickels ,  Onions
+134593
+77.45
+MARGHERITA
+Diced tomatoes ,stretchy mozzarella
+124500
+52.50
+Sea Food
+Diced tomatoes , stretchy mozzarella , Shrimps , Tuna
+124501
+100.00
+Chicken Ranch
+Diced tomatoes , stretchy mozzarella , Ranch Sauce , Chicken
+124502	
+80.00
+Mashrom Soup
+cream or milk , bits of mashrom , onions , chicken broth , seasonings
+210000
+30.56
+Chicken Soup
+cream or milk ,chicken broth , onions , chicken broth , seasonings
+210001
+35.98
+Seafood Soup
+fish or seafood , vegetables , liquid(stock,juice,water)
+210002
+35.98
+Red Sauce Pasta
+Pasta , Tomato Sauce
+100000
+80.98
+Lasagne
+Durum wheat , ground meat , cheese
+100001
+100.56
+Spaghetti Bolognaise
+Spaghetti , Tomato Sauce , Beef Mince
+100002
+100.56
+Cheese Cake
+Cheese , Butter , Sugar , Eggs , Biscuit
+356540
+79.98
+Brownies
+Chocolate , Butter , Sugar , Eggs , cocoa powder
+356541
+56.78
+Apple Pie
+Apple , Butter , Sugar , Egg , crust
+356542
+23.55
+Tiramisu
+Mascarpone , Cream , Egg , Sugar , Cheese
+356543
+65.89
+Molten Chocolate Cake
+chocolate , Butter , Sugar , Eggs , flour
+356544
+99.98
